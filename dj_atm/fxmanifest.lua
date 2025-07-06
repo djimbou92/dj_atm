@@ -1,7 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-
-description 'Simple ATM system using qb-target'
+description 'Simple ATM system using qb-target by Djimbou - https://github.com/djimbou92'
 author 'Djimbou'
 version '1.0.0'
 
